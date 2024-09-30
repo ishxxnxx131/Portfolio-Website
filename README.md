@@ -4,7 +4,7 @@
 
 I am delighted to share my newly launched portfolio website.
 
-🔗 [Visit my Portfolio]([https://lnkd.in/gSCHFBqH](https://ishana-portfolio.vercel.app/))
+🔗 [Visit my Portfolio](https://ishana-portfolio.vercel.app/)
 
 ## About the Portfolio
 
